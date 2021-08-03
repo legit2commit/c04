@@ -56,11 +56,11 @@ int	ft_atoi(char *str)
 	}
 	return (res * minus);
 }
-
+/*
 #include <stdio.h>
 int	main(int ac, char **av)
 {
 	printf("%d",ft_atoi(av[1]));
 	return (0);	
 }
-
+*/
